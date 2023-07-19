@@ -6,4 +6,5 @@ Just an empty boilerplate to easily make an ESP IDF (tested on esp-idf `v4.4.0`)
 - Install VSCode and ESP-IDF extension
 - Configure ESP-IDF extension and download the `v4.4.0` version
 - `idf.py fullclean`
+- `idf.py menuconfig`
 - `idf.py build`
